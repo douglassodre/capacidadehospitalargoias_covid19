@@ -1,0 +1,1 @@
+# capacidadehospitalargoias_covid19
