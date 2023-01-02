@@ -1,6 +1,6 @@
 # capacidadehospitalargoias_covid19
 
-<h1>Avaliação da capacidade hospitalar dos hospitais de Goiás durante o COVID-19:pill:</h1>
+<h1>Avaliação da capacidade hospitalar dos hospitais de Goiás durante o COVID-19:hospital:</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
