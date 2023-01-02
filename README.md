@@ -1,4 +1,4 @@
-# prestadoreseplanos
+# capacidadehospitalargoias_covid19
 
 <h1>Avaliação da capacidade hospitalar dos hospitais de Goiás durante o COVID-19:pill:</h1>
 
