@@ -14,8 +14,6 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  A proposta desse notebook é praticar visualização de dados/ tratamento de dados com python aliado ao conhecimento e 
-  experiência ao longo da minha jornada em SQL e dataviz em outras ferramentas como PowerBI.
   A proposta deste notebook veio através de um desafio para avaliar a evolução da capacidade hospitalar durante o período vivido do COVID-19 no estado de Goiás.
   Nele é possível encontrar uma breve EDA, avaliando o número de leitos, sua evolução, focando prioritariamente nos municípios onde tem maior representatividade na quantidade de leitos.
 </p>
@@ -43,10 +41,6 @@ Pandas :books:
 Matplotlib :books:  
 
 ## Casos de Uso
-
-O projeto serve para visualizar o número de operadoras de saúde na Bahia, quantidade de planos, características no formato de adesão,
-quantidade de hospitais na região, entre outros.
-A intenção é extender a análise para todo o Brasil.
 
 Este projeto foi construido com o objetivo de avaliar o número de leitos no estado de Goiás e seu comportamento, referente a quantidade, durante o período da pandameia. Foi feito uma breve EDA, os insights foram extraídos e podem ser encontrados neste notebook.
 
