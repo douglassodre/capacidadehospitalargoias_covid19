@@ -55,4 +55,4 @@ Este projeto foi construido com o objetivo de avaliar o número de leitos no est
 [<sub>Linkedin</sub>](https://www.linkedin.com/in/douglassodre)
 [<sub>Behance</sub>](https://www.behance.net/douglasssodre)
 
-Copyright :copyright: 2022 - Avaliação de Prestadores e Planos de Saúde na Bahia
+Copyright :copyright: 2022 - Avaliação da capacidade hospitalar dos hospitais de Goiás durante o COVID-19
